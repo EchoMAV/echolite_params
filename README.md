@@ -1,5 +1,6 @@
 # Onboard parameters for EchoLite
-## Stack: ArduPilot
+## Stack:
+ArduPilot
 
 ## Vehicle:
 Multi-Rotor
